@@ -9,5 +9,3 @@ fun = [7, 8, 10, 38, 59]
 
 
 p square_array(fun)
-
-p 
